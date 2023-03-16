@@ -1,2 +1,1 @@
-# Machine Learning_Titanic
-# Machine Learning_Boston Housing
+# Machine Learning Projects:Titanic_Boston Housing
