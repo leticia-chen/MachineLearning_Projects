@@ -8,4 +8,5 @@ Boston Housing is a model that attempts to apply various machine learning algori
 ### Titanic
 * titanic_level1.py:  handcrafted machine learning model
 * titanic_level2.py:  handcrafted machine learning model incorporatin panda/dataframe/scikit-learn
-* titanic_pandas_decision_tree.py: 
+* titanic_pandas_decision_tree.py: a supervised learning algorithm that is used for classification and regression modeling.
+* titanic_pandas_pca_degree1.py: an unsupervised* learning method
