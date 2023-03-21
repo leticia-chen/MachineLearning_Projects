@@ -14,3 +14,5 @@ handcrafted machine learning model incorporatin panda/dataframe/scikit-learn
 a supervised learning algorithm that is used for classification and regression modeling.
 #### titanic_pandas_pca_degree1.py: 
 an unsupervised learning method
+### Boston Housing
+The best result on Kaggle is boston_housing_svr.py -> def svr_all_cv(train_data, test_data)
